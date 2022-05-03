@@ -46,3 +46,8 @@ Configuration
 -------------
 The configuration of dwm is done by creating a custom config.h
 and (re)compiling the source code.
+
+---
+#### Explanantion of Code
+dwm.c is first thing which get's executed
+
