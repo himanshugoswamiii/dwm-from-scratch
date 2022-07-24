@@ -11,8 +11,8 @@ static const int systraypinningfailfirst    = 1;   /* 1: if pinning fails, displ
 static const int showsystray        = 1;     /* 0 means no systray */
 static const int showbar            = 1;     /* 0 means no bar */
 static const int topbar             = 1;     /* 0 means bottom bar */
-static const char *fonts[]          = {"RecMonoCasual Nerd Font:size=14", "Noto Color Emoji:size=14","JoyPixels:size=14", "monospace:size=14" };
-static const char dmenufont[]       = "RecMonoCasual Nerd Font:size=14";
+static const char *fonts[]          = {"RecMonoCasual Nerd Font:size=13", "Noto Color Emoji:size=13","JoyPixels:size=13", "monospace:size=13" };
+static const char dmenufont[]       = "RecMonoCasual Nerd Font:size=13";
 //static const char dmenufont[]       = "monospace:size=10" ; 
 
 #include "themes/retrowave.h" // For themes
